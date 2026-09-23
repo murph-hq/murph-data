@@ -12,7 +12,7 @@ repo; data commits here never build or deploy the site.
 | `availability/` | `scripts/snapshot-availability.mjs` | slate-aware clusters |
 
 Every file in `feeds/` is `{ "capturedAt": <ms>, "data": ... }`. The site
-shows `capturedAt` and warns when a feed is more than two hourly runs old.
+shows `capturedAt` and warns when a feed is more than three hourly runs old.
 
 **Do not rewrite history in `line-history/` or `forward-test/`.** Commit
 times here are the record that each projection was frozen before kickoff.
