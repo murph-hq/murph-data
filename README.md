@@ -1,7 +1,7 @@
 # murph-data
 
 Cron-written data for the Murph site, served by GitHub Pages at
-https://okoury.github.io/murph-data/. The site's code lives in a separate
+https://murph-hq.github.io/murph-data/. The site's code lives in a separate
 repo; data commits here never build or deploy the site.
 
 | Directory | Written by | Cadence |
