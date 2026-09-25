@@ -114639,6 +114639,3786 @@
    "at": 1790354556122,
    "kickoff": 1790528400000,
    "overrides": []
+  },
+  "401872949|4601080|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872949|4601080|rushYds",
+   "player": "Raheim Sanders",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CLE",
+   "opp": "CAR",
+   "opponentFactor": 1.09,
+   "projection": 12.35,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.69,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6897341556068559,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.87,
+   "eligibilityWeight": 0.434,
+   "propEligible": false,
+   "interval50": [
+    4.58,
+    16.92
+   ],
+   "interval80": [
+    -7.57,
+    36.07
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872949|4601080|rushYds|yardage-scale-v2": {
+   "prop": "401872949|4601080|rushYds",
+   "player": "Raheim Sanders",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CLE",
+   "opp": "CAR",
+   "opponentFactor": 1.09,
+   "projection": 12.35,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.28,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6116789554063018,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.87,
+   "eligibilityWeight": 0.434,
+   "propEligible": false,
+   "interval50": [
+    2.57,
+    18.64
+   ],
+   "interval80": [
+    -6.97,
+    35.48
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872949|4601080|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872949|4601080|rushYds",
+   "player": "Raheim Sanders",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CLE",
+   "opp": "CAR",
+   "opponentFactor": 1.09,
+   "projection": 12.35,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.69,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6897341556068559,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.87,
+   "eligibilityWeight": 0.434,
+   "propEligible": false,
+   "interval50": [
+    4.58,
+    16.92
+   ],
+   "interval80": [
+    -7.57,
+    36.07
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872949|4601080|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872949|4601080|rushYds",
+   "player": "Raheim Sanders",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CLE",
+   "opp": "CAR",
+   "opponentFactor": 1.09,
+   "projection": 12.35,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.43,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6646069727272381,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.87,
+   "eligibilityWeight": 0.434,
+   "propEligible": false,
+   "interval50": [
+    4.66,
+    20.04
+   ],
+   "interval80": [
+    -2.26,
+    26.96
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872949|4601080|rushYds|pool-share-v2": {
+   "prop": "401872949|4601080|rushYds",
+   "player": "Raheim Sanders",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CLE",
+   "opp": "CAR",
+   "opponentFactor": 1.09,
+   "projection": 8.22,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.48,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4970724067380592,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.87,
+   "eligibilityWeight": 0.434,
+   "propEligible": false,
+   "interval50": [
+    0.45,
+    12.79
+   ],
+   "interval80": [
+    -11.7,
+    31.94
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|15864|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872954|15864|rushYds",
+   "player": "Geno Smith",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 11.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "NYJ",
+   "opp": "DET",
+   "opponentFactor": 1.04,
+   "projection": 15.8,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.66,
+   "guardReason": "41 att last game against a 25.0 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "41 att last game against a 25.0 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6743982135819062,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.16,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    8.03,
+    20.37
+   ],
+   "interval80": [
+    -4.12,
+    39.52
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|15864|rushYds|yardage-scale-v2": {
+   "prop": "401872954|15864|rushYds",
+   "player": "Geno Smith",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 11.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "NYJ",
+   "opp": "DET",
+   "opponentFactor": 1.04,
+   "projection": 15.8,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.02,
+   "guardReason": "41 att last game against a 25.0 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "41 att last game against a 25.0 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.506199114766744,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.16,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    4.2,
+    24.34
+   ],
+   "interval80": [
+    -0.8,
+    41.18
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|15864|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872954|15864|rushYds",
+   "player": "Geno Smith",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 11.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "NYJ",
+   "opp": "DET",
+   "opponentFactor": 1.04,
+   "projection": 15.8,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.66,
+   "guardReason": "41 att last game against a 25.0 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "41 att last game against a 25.0 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6743982135819062,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.16,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    8.03,
+    20.37
+   ],
+   "interval80": [
+    -4.12,
+    39.52
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|15864|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872954|15864|rushYds",
+   "player": "Geno Smith",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 11.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "NYJ",
+   "opp": "DET",
+   "opponentFactor": 1.04,
+   "projection": 15.8,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.38,
+   "guardReason": "41 att last game against a 25.0 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "41 att last game against a 25.0 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6469114801944316,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.16,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    8.11,
+    23.49
+   ],
+   "interval80": [
+    1.19,
+    30.41
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|3046779|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872954|3046779|rushYds",
+   "player": "Jared Goff",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DET",
+   "opp": "NYJ",
+   "opponentFactor": 1,
+   "projection": 7.46,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7323495800452644,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.98,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -0.3,
+    12.03
+   ],
+   "interval80": [
+    -12.45,
+    31.18
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|3046779|rushYds|yardage-scale-v2": {
+   "prop": "401872954|3046779|rushYds",
+   "player": "Jared Goff",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DET",
+   "opp": "NYJ",
+   "opponentFactor": 1,
+   "projection": 7.46,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.55,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7087577272911073,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.98,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -0.23,
+    13.13
+   ],
+   "interval80": [
+    -3.55,
+    24.31
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|3046779|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872954|3046779|rushYds",
+   "player": "Jared Goff",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DET",
+   "opp": "NYJ",
+   "opponentFactor": 1,
+   "projection": 7.46,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7323495800452644,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.98,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -0.3,
+    12.03
+   ],
+   "interval80": [
+    -12.45,
+    31.18
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|3046779|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872954|3046779|rushYds",
+   "player": "Jared Goff",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DET",
+   "opp": "NYJ",
+   "opponentFactor": 1,
+   "projection": 7.46,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.61,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7292788583764158,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.98,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -0.23,
+    15.15
+   ],
+   "interval80": [
+    -7.15,
+    22.07
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|4685247|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872954|4685247|rushYds",
+   "player": "Braelon Allen",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 17.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "NYJ",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 24.5,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7332212766439262,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.45,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    16.74,
+    29.07
+   ],
+   "interval80": [
+    4.59,
+    48.23
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|4685247|rushYds|yardage-scale-v2": {
+   "prop": "401872954|4685247|rushYds",
+   "player": "Braelon Allen",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 17.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "NYJ",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 24.5,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.08,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5329079058119949,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.45,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    6.7,
+    36.75
+   ],
+   "interval80": [
+    -2.09,
+    56.59
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|4685247|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872954|4685247|rushYds",
+   "player": "Braelon Allen",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 17.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "NYJ",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 24.5,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7332212766439262,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.45,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    16.74,
+    29.07
+   ],
+   "interval80": [
+    4.59,
+    48.23
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|4685247|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872954|4685247|rushYds",
+   "player": "Braelon Allen",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 17.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "NYJ",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 24.5,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.61,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7304608560464587,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.45,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    16.81,
+    32.19
+   ],
+   "interval80": [
+    9.89,
+    39.11
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|4685247|rushYds|pool-share-v2": {
+   "prop": "401872954|4685247|rushYds",
+   "player": "Braelon Allen",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 17.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "NYJ",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 24.26,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.79,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7277942903527734,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.45,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    16.49,
+    28.83
+   ],
+   "interval80": [
+    4.34,
+    47.98
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|4912274|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872954|4912274|rushYds",
+   "player": "Sione Vaki",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DET",
+   "opp": "NYJ",
+   "opponentFactor": 1.02,
+   "projection": 4.06,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.73,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.23344658777765392,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.99,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.7,
+    8.63
+   ],
+   "interval80": [
+    -15.85,
+    27.78
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|4912274|rushYds|yardage-scale-v2": {
+   "prop": "401872954|4912274|rushYds",
+   "player": "Sione Vaki",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DET",
+   "opp": "NYJ",
+   "opponentFactor": 1.02,
+   "projection": 4.06,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.73,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.23344658777765392,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.99,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.7,
+    8.63
+   ],
+   "interval80": [
+    -15.85,
+    27.78
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|4912274|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872954|4912274|rushYds",
+   "player": "Sione Vaki",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DET",
+   "opp": "NYJ",
+   "opponentFactor": 1.02,
+   "projection": 4.06,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.73,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.23344658777765392,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.99,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.7,
+    8.63
+   ],
+   "interval80": [
+    -15.85,
+    27.78
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|4912274|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872954|4912274|rushYds",
+   "player": "Sione Vaki",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DET",
+   "opp": "NYJ",
+   "opponentFactor": 1.02,
+   "projection": 4.06,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.48,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.316653392203893,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.99,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.63,
+    11.75
+   ],
+   "interval80": [
+    -10.55,
+    18.67
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872954|4912274|rushYds|pool-share-v2": {
+   "prop": "401872954|4912274|rushYds",
+   "player": "Sione Vaki",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DET",
+   "opp": "NYJ",
+   "opponentFactor": 1.02,
+   "projection": 6.07,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.62,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.2692049741796716,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.99,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -1.7,
+    10.64
+   ],
+   "interval80": [
+    -13.85,
+    29.79
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872952|4711533|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872952|4711533|rushYds",
+   "player": "Ollie Gordon II",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "MIA",
+   "opp": "KC",
+   "opponentFactor": 0.95,
+   "projection": 12.85,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.66,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6763773004591422,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.58,
+   "eligibilityWeight": 0.79,
+   "propEligible": false,
+   "interval50": [
+    5.09,
+    17.43
+   ],
+   "interval80": [
+    -7.06,
+    36.58
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872952|4711533|rushYds|yardage-scale-v2": {
+   "prop": "401872952|4711533|rushYds",
+   "player": "Ollie Gordon II",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "MIA",
+   "opp": "KC",
+   "opponentFactor": 0.95,
+   "projection": 12.85,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.08,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5308147095190646,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.58,
+   "eligibilityWeight": 0.79,
+   "propEligible": false,
+   "interval50": [
+    0.47,
+    21.22
+   ],
+   "interval80": [
+    -7.4,
+    37.23
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872952|4711533|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872952|4711533|rushYds",
+   "player": "Ollie Gordon II",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "MIA",
+   "opp": "KC",
+   "opponentFactor": 0.95,
+   "projection": 12.85,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.66,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6763773004591422,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.58,
+   "eligibilityWeight": 0.79,
+   "propEligible": false,
+   "interval50": [
+    5.09,
+    17.43
+   ],
+   "interval80": [
+    -7.06,
+    36.58
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872952|4711533|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872952|4711533|rushYds",
+   "player": "Ollie Gordon II",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "MIA",
+   "opp": "KC",
+   "opponentFactor": 0.95,
+   "projection": 12.85,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.38,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6487482147525727,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.58,
+   "eligibilityWeight": 0.79,
+   "propEligible": false,
+   "interval50": [
+    5.16,
+    20.54
+   ],
+   "interval80": [
+    -1.76,
+    27.46
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872952|4711533|rushYds|pool-share-v2": {
+   "prop": "401872952|4711533|rushYds",
+   "player": "Ollie Gordon II",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "MIA",
+   "opp": "KC",
+   "opponentFactor": 0.95,
+   "projection": 10.98,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.57,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6168795256038694,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.58,
+   "eligibilityWeight": 0.79,
+   "propEligible": false,
+   "interval50": [
+    3.21,
+    15.55
+   ],
+   "interval80": [
+    -8.94,
+    34.7
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872950|4035687|recYds|usage-efficiency-v1.4": {
+   "prop": "401872950|4035687|recYds",
+   "player": "Michael Pittman Jr.",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 26.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "PIT",
+   "opp": "CIN",
+   "opponentFactor": 0.97,
+   "projection": 34.19,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.55,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6460485698857289,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.52,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    21.69,
+    45.15
+   ],
+   "interval80": [
+    10.22,
+    65.43
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872950|4035687|recYds|yardage-scale-v2": {
+   "prop": "401872950|4035687|recYds",
+   "player": "Michael Pittman Jr.",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 26.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "PIT",
+   "opp": "CIN",
+   "opponentFactor": 0.97,
+   "projection": 34.19,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.18,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5703962898917546,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.52,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    14.35,
+    51.33
+   ],
+   "interval80": [
+    3.98,
+    71.77
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872950|4035687|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872950|4035687|recYds",
+   "player": "Michael Pittman Jr.",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 26.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "PIT",
+   "opp": "CIN",
+   "opponentFactor": 0.97,
+   "projection": 34.19,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.55,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6460485698857289,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.52,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    21.69,
+    45.15
+   ],
+   "interval80": [
+    10.22,
+    65.43
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872950|4035687|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872950|4035687|recYds",
+   "player": "Michael Pittman Jr.",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 26.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "PIT",
+   "opp": "CIN",
+   "opponentFactor": 0.97,
+   "projection": 34.19,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.45,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6744092206972027,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.52,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    22.72,
+    45.65
+   ],
+   "interval80": [
+    12.4,
+    55.97
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|2576980|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872955|2576980|rushYds",
+   "player": "Marcus Mariota",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 22.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 0.97,
+   "projection": 13.84,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.85,
+   "guardReason": "Jayden Daniels is Out — he was seeing 25.5 att a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jayden Daniels is Out — he was seeing 25.5 att a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.19671815721732688,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.21,
+   "eligibilityWeight": 0.385,
+   "propEligible": false,
+   "interval50": [
+    6.07,
+    18.41
+   ],
+   "interval80": [
+    -6.08,
+    37.56
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|2576980|rushYds|yardage-scale-v2": {
+   "prop": "401872955|2576980|rushYds",
+   "player": "Marcus Mariota",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 22.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 0.97,
+   "projection": 13.84,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.82,
+   "guardReason": "Jayden Daniels is Out — he was seeing 25.5 att a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jayden Daniels is Out — he was seeing 25.5 att a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.20599907819780283,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.21,
+   "eligibilityWeight": 0.385,
+   "propEligible": false,
+   "interval50": [
+    5.23,
+    19.47
+   ],
+   "interval80": [
+    -3.9,
+    36.82
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|2576980|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872955|2576980|rushYds",
+   "player": "Marcus Mariota",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 22.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 0.97,
+   "projection": 13.84,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.85,
+   "guardReason": "Jayden Daniels is Out — he was seeing 25.5 att a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jayden Daniels is Out — he was seeing 25.5 att a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.19671815721732688,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.21,
+   "eligibilityWeight": 0.385,
+   "propEligible": false,
+   "interval50": [
+    6.07,
+    18.41
+   ],
+   "interval80": [
+    -6.08,
+    37.56
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|2576980|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872955|2576980|rushYds",
+   "player": "Marcus Mariota",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 22.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 0.97,
+   "projection": 13.84,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.76,
+   "guardReason": "Jayden Daniels is Out — he was seeing 25.5 att a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jayden Daniels is Out — he was seeing 25.5 att a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.2236157245811794,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.21,
+   "eligibilityWeight": 0.385,
+   "propEligible": false,
+   "interval50": [
+    6.15,
+    21.52
+   ],
+   "interval80": [
+    -0.77,
+    28.45
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|4697815|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872955|4697815|rushYds",
+   "player": "Rachaad White",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 0.98,
+   "projection": 28.71,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.9,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7933250123457575,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.7,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    20.95,
+    33.28
+   ],
+   "interval80": [
+    8.79,
+    52.43
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|4697815|rushYds|yardage-scale-v2": {
+   "prop": "401872955|4697815|rushYds",
+   "player": "Rachaad White",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 0.98,
+   "projection": 28.71,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.19,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5767629548298746,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.7,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    10.59,
+    41.18
+   ],
+   "interval80": [
+    1.64,
+    61.38
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|4697815|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872955|4697815|rushYds",
+   "player": "Rachaad White",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 0.98,
+   "projection": 28.71,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.9,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7933250123457575,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.7,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    20.95,
+    33.28
+   ],
+   "interval80": [
+    8.79,
+    52.43
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|4697815|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872955|4697815|rushYds",
+   "player": "Rachaad White",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 0.98,
+   "projection": 28.71,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.9,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8147748415415319,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.7,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    21.02,
+    36.4
+   ],
+   "interval80": [
+    14.1,
+    43.32
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|4697815|rushYds|pool-share-v2": {
+   "prop": "401872955|4697815|rushYds",
+   "player": "Rachaad White",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 0.98,
+   "projection": 29.2,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.92,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8018561549770484,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.7,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    21.43,
+    33.77
+   ],
+   "interval80": [
+    9.28,
+    52.92
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|4697815|recYds|usage-efficiency-v1.4": {
+   "prop": "401872955|4697815|recYds",
+   "player": "Rachaad White",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 1.03,
+   "projection": 23.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.53,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6352252877527069,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.47,
+   "eligibilityWeight": 0.735,
+   "propEligible": false,
+   "interval50": [
+    11.21,
+    34.67
+   ],
+   "interval80": [
+    -0.26,
+    54.96
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|4697815|recYds|yardage-scale-v2": {
+   "prop": "401872955|4697815|recYds",
+   "player": "Rachaad White",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 1.03,
+   "projection": 23.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.29,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6151167445016941,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.47,
+   "eligibilityWeight": 0.735,
+   "propEligible": false,
+   "interval50": [
+    10.35,
+    35.3
+   ],
+   "interval80": [
+    2.06,
+    51.02
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|4697815|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872955|4697815|recYds",
+   "player": "Rachaad White",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 1.03,
+   "projection": 23.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.53,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6352252877527069,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.47,
+   "eligibilityWeight": 0.735,
+   "propEligible": false,
+   "interval50": [
+    11.21,
+    34.67
+   ],
+   "interval80": [
+    -0.26,
+    54.96
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872955|4697815|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872955|4697815|recYds",
+   "player": "Rachaad White",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "WAS",
+   "opp": "SEA",
+   "opponentFactor": 1.03,
+   "projection": 23.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.42,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6642565368276898,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.47,
+   "eligibilityWeight": 0.735,
+   "propEligible": false,
+   "interval50": [
+    12.24,
+    35.18
+   ],
+   "interval80": [
+    1.92,
+    45.5
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872958|4361741|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872958|4361741|rushYds",
+   "player": "Brock Purdy",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "SF",
+   "opp": "ARI",
+   "opponentFactor": 0.93,
+   "projection": 16.89,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.47,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4465520868144849,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.83,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    9.13,
+    21.47
+   ],
+   "interval80": [
+    -3.02,
+    40.62
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790539500000,
+   "overrides": []
+  },
+  "401872958|4361741|rushYds|yardage-scale-v2": {
+   "prop": "401872958|4361741|rushYds",
+   "player": "Brock Purdy",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "SF",
+   "opp": "ARI",
+   "opponentFactor": 0.93,
+   "projection": 16.89,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.26,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.39925833335971417,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.83,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    5.86,
+    25.02
+   ],
+   "interval80": [
+    1.09,
+    41.07
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790539500000,
+   "overrides": []
+  },
+  "401872958|4361741|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872958|4361741|rushYds",
+   "player": "Brock Purdy",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "SF",
+   "opp": "ARI",
+   "opponentFactor": 0.93,
+   "projection": 16.89,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.47,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4465520868144849,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.83,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    9.13,
+    21.47
+   ],
+   "interval80": [
+    -3.02,
+    40.62
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790539500000,
+   "overrides": []
+  },
+  "401872958|4361741|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872958|4361741|rushYds",
+   "player": "Brock Purdy",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "SF",
+   "opp": "ARI",
+   "opponentFactor": 0.93,
+   "projection": 16.89,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.03,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5138090138360634,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.83,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    9.21,
+    24.58
+   ],
+   "interval80": [
+    2.28,
+    31.5
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790539500000,
+   "overrides": []
+  },
+  "401872959|4371733|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401872959|4371733|rushRecYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "TB",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 48.51,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790539500000,
+   "overrides": []
+  },
+  "401872959|4371733|rushRecYds|yardage-scale-v2": {
+   "prop": "401872959|4371733|rushRecYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "TB",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 48.51,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790539500000,
+   "overrides": []
+  },
+  "401872959|4371733|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872959|4371733|rushRecYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "TB",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 48.51,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790539500000,
+   "overrides": []
+  },
+  "401872959|4371733|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872959|4371733|rushRecYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "TB",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 48.51,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790539500000,
+   "overrides": []
+  },
+  "401872963|4608686|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872963|4608686|rushYds",
+   "player": "Kyle Monangai",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 39.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 0.99,
+   "projection": 50.08,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.91,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8003885454369525,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 10.13,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    42.31,
+    54.65
+   ],
+   "interval80": [
+    30.16,
+    73.8
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|4608686|rushYds|yardage-scale-v2": {
+   "prop": "401872963|4608686|rushYds",
+   "player": "Kyle Monangai",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 39.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 0.99,
+   "projection": 50.08,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.14,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5562035483750927,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 10.13,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    27.88,
+    65.35
+   ],
+   "interval80": [
+    16.91,
+    90.09
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|4608686|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872963|4608686|rushYds",
+   "player": "Kyle Monangai",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 39.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 0.99,
+   "projection": 50.08,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.91,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8003885454369525,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 10.13,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    42.31,
+    54.65
+   ],
+   "interval80": [
+    30.16,
+    73.8
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|4608686|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872963|4608686|rushYds",
+   "player": "Kyle Monangai",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 39.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 0.99,
+   "projection": 50.08,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.93,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8232336356153751,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 10.13,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    42.39,
+    57.77
+   ],
+   "interval80": [
+    35.47,
+    64.69
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|4608686|rushYds|pool-share-v2": {
+   "prop": "401872963|4608686|rushYds",
+   "player": "Kyle Monangai",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 39.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 0.99,
+   "projection": 50.05,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.91,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.80001709262355,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 10.13,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    42.28,
+    54.62
+   ],
+   "interval80": [
+    30.13,
+    73.77
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|15835|recYds|usage-efficiency-v1.4": {
+   "prop": "401872963|15835|recYds",
+   "player": "Zach Ertz",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 11.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "PHI",
+   "opp": "CHI",
+   "opponentFactor": 1.02,
+   "projection": 43.67,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.31,
+   "guardReason": "2 tgt last game against a 8.7 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 tgt last game against a 8.7 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9484896330256165,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.04,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    31.18,
+    54.64
+   ],
+   "interval80": [
+    19.7,
+    74.92
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|15835|recYds|yardage-scale-v2": {
+   "prop": "401872963|15835|recYds",
+   "player": "Zach Ertz",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 11.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "PHI",
+   "opp": "CHI",
+   "opponentFactor": 1.02,
+   "projection": 43.67,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.24,
+   "guardReason": "2 tgt last game against a 8.7 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 tgt last game against a 8.7 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8916744236755597,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.04,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    22.03,
+    62.37
+   ],
+   "interval80": [
+    10.73,
+    84.67
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|15835|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872963|15835|recYds",
+   "player": "Zach Ertz",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 11.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "PHI",
+   "opp": "CHI",
+   "opponentFactor": 1.02,
+   "projection": 43.67,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.31,
+   "guardReason": "2 tgt last game against a 8.7 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 tgt last game against a 8.7 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9484896330256165,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.04,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    31.18,
+    54.64
+   ],
+   "interval80": [
+    19.7,
+    74.92
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|15835|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872963|15835|recYds",
+   "player": "Zach Ertz",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 11.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "PHI",
+   "opp": "CHI",
+   "opponentFactor": 1.02,
+   "projection": 43.67,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.89,
+   "guardReason": "2 tgt last game against a 8.7 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 tgt last game against a 8.7 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9707813288576038,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.04,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    32.2,
+    55.14
+   ],
+   "interval80": [
+    21.88,
+    65.46
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|4259545|recYds|usage-efficiency-v1.4": {
+   "prop": "401872963|4259545|recYds",
+   "player": "D'Andre Swift",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 21.87,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.69,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7273963315553389,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.93,
+   "eligibilityWeight": 0.465,
+   "propEligible": false,
+   "interval50": [
+    9.38,
+    32.84
+   ],
+   "interval80": [
+    -2.1,
+    53.12
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|4259545|recYds|yardage-scale-v2": {
+   "prop": "401872963|4259545|recYds",
+   "player": "D'Andre Swift",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 21.87,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.6,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7261443943611339,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.93,
+   "eligibilityWeight": 0.465,
+   "propEligible": false,
+   "interval50": [
+    9.49,
+    32.66
+   ],
+   "interval80": [
+    0.38,
+    49.37
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|4259545|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872963|4259545|recYds",
+   "player": "D'Andre Swift",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 21.87,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.69,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7273963315553389,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.93,
+   "eligibilityWeight": 0.465,
+   "propEligible": false,
+   "interval50": [
+    9.38,
+    32.84
+   ],
+   "interval80": [
+    -2.1,
+    53.12
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|4259545|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872963|4259545|recYds",
+   "player": "D'Andre Swift",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 21.87,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.67,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7482031079104197,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.93,
+   "eligibilityWeight": 0.465,
+   "propEligible": false,
+   "interval50": [
+    10.4,
+    33.34
+   ],
+   "interval80": [
+    0.08,
+    43.66
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|15835|rec|usage-efficiency-v1.4": {
+   "prop": "401872963|15835|rec",
+   "player": "Zach Ertz",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "PHI",
+   "opp": "CHI",
+   "opponentFactor": 1.01,
+   "projection": 4.21,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.17,
+   "guardReason": "2 tgt last game against a 8.7 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 tgt last game against a 8.7 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8796485810492183,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|15835|rec|yardage-scale-v2": {
+   "prop": "401872963|15835|rec",
+   "player": "Zach Ertz",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "PHI",
+   "opp": "CHI",
+   "opponentFactor": 1.01,
+   "projection": 4.21,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.17,
+   "guardReason": "2 tgt last game against a 8.7 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 tgt last game against a 8.7 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8796485810492183,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|15835|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872963|15835|rec",
+   "player": "Zach Ertz",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "PHI",
+   "opp": "CHI",
+   "opponentFactor": 1.01,
+   "projection": 4.21,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.4,
+   "guardReason": "2 tgt last game against a 8.7 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 tgt last game against a 8.7 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9530310294253014,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|15835|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872963|15835|rec",
+   "player": "Zach Ertz",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "PHI",
+   "opp": "CHI",
+   "opponentFactor": 1.01,
+   "projection": 4.21,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.17,
+   "guardReason": "2 tgt last game against a 8.7 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 tgt last game against a 8.7 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8796485810492183,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|4259545|rec|usage-efficiency-v1.4": {
+   "prop": "401872963|4259545|rec",
+   "player": "D'Andre Swift",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 0.98,
+   "projection": 2.6,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.51,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6948026616773902,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|4259545|rec|yardage-scale-v2": {
+   "prop": "401872963|4259545|rec",
+   "player": "D'Andre Swift",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 0.98,
+   "projection": 2.6,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.51,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6948026616773902,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|4259545|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872963|4259545|rec",
+   "player": "D'Andre Swift",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 0.98,
+   "projection": 2.6,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.75,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7642827354795121,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
+  },
+  "401872963|4259545|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872963|4259545|rec",
+   "player": "D'Andre Swift",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CHI",
+   "opp": "PHI",
+   "opponentFactor": 0.98,
+   "projection": 2.6,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.51,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6948026616773902,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "c283e0c",
+   "at": 1790370621228,
+   "kickoff": 1790640900000,
+   "overrides": []
   }
  },
  "checks": [
@@ -114773,6 +118553,13 @@
    642,
    20,
    29,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+pool-share-v2"
+  ],
+  [
+   1790370621228,
+   664,
+   74,
+   34,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+pool-share-v2"
   ]
  ],
