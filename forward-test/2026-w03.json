@@ -124765,6 +124765,1042 @@
    "at": 1790420107272,
    "kickoff": 1790528400000,
    "overrides": []
+  },
+  "401872949|4239934|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872949|4239934|rushYds",
+   "player": "AJ Dillon",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CAR",
+   "opp": "CLE",
+   "opponentFactor": 1,
+   "projection": 12.94,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.47,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3177629457549235,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.22,
+   "eligibilityWeight": 0.609,
+   "propEligible": false,
+   "interval50": [
+    5.17,
+    17.51
+   ],
+   "interval80": [
+    -6.98,
+    36.66
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872949|4239934|rushYds|yardage-scale-v2": {
+   "prop": "401872949|4239934|rushYds",
+   "player": "AJ Dillon",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CAR",
+   "opp": "CLE",
+   "opponentFactor": 1,
+   "projection": 12.94,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.27,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.394831766767324,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.22,
+   "eligibilityWeight": 0.609,
+   "propEligible": false,
+   "interval50": [
+    1.97,
+    20.18
+   ],
+   "interval80": [
+    -6.69,
+    36.5
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872949|4239934|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872949|4239934|rushYds",
+   "player": "AJ Dillon",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CAR",
+   "opp": "CLE",
+   "opponentFactor": 1,
+   "projection": 12.94,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.47,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3177629457549235,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.22,
+   "eligibilityWeight": 0.609,
+   "propEligible": false,
+   "interval50": [
+    5.17,
+    17.51
+   ],
+   "interval80": [
+    -6.98,
+    36.66
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872949|4239934|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872949|4239934|rushYds",
+   "player": "AJ Dillon",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CAR",
+   "opp": "CLE",
+   "opponentFactor": 1,
+   "projection": 12.94,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.05,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4802859824557375,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.22,
+   "eligibilityWeight": 0.609,
+   "propEligible": false,
+   "interval50": [
+    5.25,
+    20.63
+   ],
+   "interval80": [
+    -1.67,
+    27.55
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872949|4239934|rushYds|pool-share-v2": {
+   "prop": "401872949|4239934|rushYds",
+   "player": "AJ Dillon",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "CAR",
+   "opp": "CLE",
+   "opponentFactor": 1,
+   "projection": 14.23,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.48,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.49850346315669836,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.22,
+   "eligibilityWeight": 0.609,
+   "propEligible": false,
+   "interval50": [
+    6.47,
+    18.8
+   ],
+   "interval80": [
+    -5.69,
+    37.95
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790528400000,
+   "overrides": []
+  },
+  "401872962|3911853|recYds|usage-efficiency-v1.4": {
+   "prop": "401872962|3911853|recYds",
+   "player": "Adam Trautman",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 17.36,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.64,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6962551348678649,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.47,
+   "eligibilityWeight": 0.233,
+   "propEligible": false,
+   "interval50": [
+    4.86,
+    28.32
+   ],
+   "interval80": [
+    -6.61,
+    48.6
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|3911853|recYds|yardage-scale-v2": {
+   "prop": "401872962|3911853|recYds",
+   "player": "Adam Trautman",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 17.36,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.51,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6963918261446227,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.47,
+   "eligibilityWeight": 0.233,
+   "propEligible": false,
+   "interval50": [
+    5.01,
+    28.15
+   ],
+   "interval80": [
+    -5.23,
+    46.55
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|3911853|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872962|3911853|recYds",
+   "player": "Adam Trautman",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 17.36,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.64,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6962551348678649,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.47,
+   "eligibilityWeight": 0.233,
+   "propEligible": false,
+   "interval50": [
+    4.86,
+    28.32
+   ],
+   "interval80": [
+    -6.61,
+    48.6
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|3911853|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872962|3911853|recYds",
+   "player": "Adam Trautman",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 17.36,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.58,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7189622397843902,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.47,
+   "eligibilityWeight": 0.233,
+   "propEligible": false,
+   "interval50": [
+    5.89,
+    28.82
+   ],
+   "interval80": [
+    -4.43,
+    39.14
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|4568490|recYds|usage-efficiency-v1.4": {
+   "prop": "401872962|4568490|recYds",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 28.35,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.64,
+   "guardReason": "3 car last game against a 12.0 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "3 car last game against a 12.0 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6960556278283773,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.01,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.85,
+    39.31
+   ],
+   "interval80": [
+    4.38,
+    59.59
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|4568490|recYds|yardage-scale-v2": {
+   "prop": "401872962|4568490|recYds",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 28.35,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.37,
+   "guardReason": "3 car last game against a 12.0 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "3 car last game against a 12.0 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6439084223509453,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.01,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    13.3,
+    41.35
+   ],
+   "interval80": [
+    5.44,
+    56.85
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|4568490|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872962|4568490|recYds",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 28.35,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.64,
+   "guardReason": "3 car last game against a 12.0 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "3 car last game against a 12.0 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6960556278283773,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.01,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.85,
+    39.31
+   ],
+   "interval80": [
+    4.38,
+    59.59
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|4568490|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872962|4568490|recYds",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 28.35,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.58,
+   "guardReason": "3 car last game against a 12.0 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "3 car last game against a 12.0 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7188142067892183,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.01,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    16.88,
+    39.81
+   ],
+   "interval80": [
+    6.56,
+    50.14
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|3911853|rec|usage-efficiency-v1.4": {
+   "prop": "401872962|3911853|rec",
+   "player": "Adam Trautman",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.03,
+   "projection": 1.91,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.93,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8246740980687725,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|3911853|rec|yardage-scale-v2": {
+   "prop": "401872962|3911853|rec",
+   "player": "Adam Trautman",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.03,
+   "projection": 1.91,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.93,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8246740980687725,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|3911853|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872962|3911853|rec",
+   "player": "Adam Trautman",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.03,
+   "projection": 1.91,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.88,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8283725067958831,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|3911853|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872962|3911853|rec",
+   "player": "Adam Trautman",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.03,
+   "projection": 1.91,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.93,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8246740980687725,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|4568490|rec|usage-efficiency-v1.4": {
+   "prop": "401872962|4568490|rec",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 3.42,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.31,
+   "guardReason": "3 car last game against a 12.0 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "3 car last game against a 12.0 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6227773034714039,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|4568490|rec|yardage-scale-v2": {
+   "prop": "401872962|4568490|rec",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 3.42,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.31,
+   "guardReason": "3 car last game against a 12.0 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "3 car last game against a 12.0 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6227773034714039,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|4568490|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872962|4568490|rec",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 3.42,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.66,
+   "guardReason": "3 car last game against a 12.0 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "3 car last game against a 12.0 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7297638113216526,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
+  },
+  "401872962|4568490|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872962|4568490|rec",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 3
+   },
+   "team": "DEN",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 3.42,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.31,
+   "guardReason": "3 car last game against a 12.0 average before it — his role is moving",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "3 car last game against a 12.0 average before it — his role is moving"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6227773034714039,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "0437851",
+   "at": 1790438116566,
+   "kickoff": 1790554800000,
+   "overrides": []
   }
  },
  "checks": [
@@ -124919,6 +125955,13 @@
    1790420107272,
    706,
    28,
+   43,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+pool-share-v2"
+  ],
+  [
+   1790438116566,
+   711,
+   21,
    43,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+pool-share-v2"
   ]
