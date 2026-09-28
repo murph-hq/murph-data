@@ -1,0 +1,79 @@
+{
+ "season": 2026,
+ "week": 4,
+ "created": "2026-09-28T01:34:27.310Z",
+ "propsGenerated": "2026-09-24T19:42:24.818Z",
+ "rows": {},
+ "checks": [
+  [
+   1790559267279,
+   0,
+   0,
+   0,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+pool-share-v2"
+  ]
+ ],
+ "models": [
+  {
+   "version": "usage-efficiency-v1.4",
+   "shadow": false,
+   "kind": "production",
+   "question": null,
+   "override": null,
+   "scope": []
+  },
+  {
+   "version": "yardage-scale-v2",
+   "shadow": true,
+   "kind": "candidate",
+   "question": "Does the volume-dependent spread hold its coverage forward? (YARDAGE_SCALE_V2_PROMOTION_RULE.md)",
+   "override": {
+    "yardageDistribution": "volume-scale-v2"
+   },
+   "scope": [
+    "rushYds",
+    "recYds"
+   ]
+  },
+  {
+   "version": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "kind": "modeling-choice",
+   "question": "Does the negative binomial beat the continuous grid on count markets?",
+   "override": {
+    "countDistribution": "continuous-grid"
+   },
+   "scope": [
+    "car",
+    "tgt",
+    "rec"
+   ]
+  },
+  {
+   "version": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "kind": "modeling-choice",
+   "question": "Does the empirical residual calibration beat a normal distribution on yardage?",
+   "override": {
+    "yardageDistribution": "normal"
+   },
+   "scope": [
+    "rushYds",
+    "recYds"
+   ]
+  },
+  {
+   "version": "pool-share-v2",
+   "shadow": true,
+   "kind": "candidate",
+   "question": "Does pool x share earn promotion? (STAGE3_PROMOTION_RULE.md)",
+   "override": {
+    "projection": "pool-share"
+   },
+   "scope": [
+    "car",
+    "rushYds"
+   ]
+  }
+ ]
+}
