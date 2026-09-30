@@ -1,20 +1,19 @@
-# murph-data
+# feeds
 
-Cron-written data for the Murph site, served by GitHub Pages at
-https://murph-hq.github.io/murph-data/. The site's code lives in a separate
-repo; data commits here never build or deploy the site.
+Scheduled snapshots of public NFL data — schedules, rosters, injuries,
+player usage and market lines — written by automated jobs and served as
+static JSON from GitHub Pages.
 
-| Directory | Written by | Cadence |
+| Directory | Contents | Cadence |
 |---|---|---|
-| `feeds/` | `scripts/snapshot-feeds.mjs` | hourly, plus the kickoff clusters |
-| `line-history/` | `scripts/snapshot-lines.mjs` | slate-aware clusters |
-| `forward-test/` | `scripts/snapshot-projections.mjs` | slate-aware clusters |
-| `availability/` | `scripts/snapshot-availability.mjs` | slate-aware clusters |
+| `feeds/` | the latest copy of each upstream feed | hourly, more often around kickoffs |
+| `line-history/` | market lines captured over the week | several times a day on game weeks |
+| `forward-test/` | projections frozen before kickoff | several times a day on game weeks |
+| `availability/` | injury and inactive status over the week | several times a day on game weeks |
 
-Every file in `feeds/` is `{ "capturedAt": <ms>, "data": ... }`. The site
-shows `capturedAt` and warns when a feed is more than three hourly runs old.
+Every file in `feeds/` is `{ "capturedAt": <ms>, "data": ... }`, where
+`capturedAt` is when the snapshot was taken.
 
-**Do not rewrite history in `line-history/` or `forward-test/`.** Commit
-times here are the record that each projection was frozen before kickoff.
-Rows frozen before this repo existed are in the site repo's history, up to
-the commit that moved them.
+Commits are made by the jobs, not by hand. **History in `line-history/` and
+`forward-test/` is never rewritten:** the commit times are the record that
+each row was captured before kickoff.
