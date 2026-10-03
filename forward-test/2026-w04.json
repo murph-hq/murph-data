@@ -165395,6 +165395,931 @@
    "at": 1790978024806,
    "kickoff": 1791145500000,
    "overrides": []
+  },
+  "401872965|4360635|recYds|usage-efficiency-v1.4": {
+   "prop": "401872965|4360635|recYds",
+   "player": "Chig Okonkwo",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 22.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.06,
+   "projection": 31.51,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.6,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.674644920353302,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.26,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    19.01,
+    42.47
+   ],
+   "interval80": [
+    7.54,
+    62.75
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4360635|recYds|yardage-scale-v2": {
+   "prop": "401872965|4360635|recYds",
+   "player": "Chig Okonkwo",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 22.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.06,
+   "projection": 31.51,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.28,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6109749669132416,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.26,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    14.61,
+    46.11
+   ],
+   "interval80": [
+    5.78,
+    63.53
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4360635|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872965|4360635|recYds",
+   "player": "Chig Okonkwo",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 22.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.06,
+   "projection": 31.51,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.6,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.674644920353302,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.26,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    19.01,
+    42.47
+   ],
+   "interval80": [
+    7.54,
+    62.75
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4360635|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872965|4360635|recYds",
+   "player": "Chig Okonkwo",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 22.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.06,
+   "projection": 31.51,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.53,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7018968148429174,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.26,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    20.04,
+    42.97
+   ],
+   "interval80": [
+    9.72,
+    53.29
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4360635|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872965|4360635|recYds",
+   "player": "Chig Okonkwo",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 22.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.06,
+   "projection": 31.51,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.45,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.674644920353302,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.26,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    19.01,
+    42.47
+   ],
+   "interval80": [
+    7.54,
+    62.75
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4360635|rec|usage-efficiency-v1.4": {
+   "prop": "401872965|4360635|rec",
+   "player": "Chig Okonkwo",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.04,
+   "projection": 2.85,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.04,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5155584399114738,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4360635|rec|yardage-scale-v2": {
+   "prop": "401872965|4360635|rec",
+   "player": "Chig Okonkwo",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.04,
+   "projection": 2.85,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.04,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5155584399114738,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4360635|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872965|4360635|rec",
+   "player": "Chig Okonkwo",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.04,
+   "projection": 2.85,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.35,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.563236752731221,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4360635|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872965|4360635|rec",
+   "player": "Chig Okonkwo",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.04,
+   "projection": 2.85,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.04,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5155584399114738,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4360635|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872965|4360635|rec",
+   "player": "Chig Okonkwo",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.04,
+   "projection": 2.85,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.04,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5155584399114738,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872971|3915411|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401872971|3915411|rushRecYds",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 21.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "BUF",
+   "opp": "NE",
+   "opponentFactor": 1,
+   "projection": 40.47,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 1,
+   "guardReason": "0 carries last game, 7.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 carries last game, 7.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872971|3915411|rushRecYds|yardage-scale-v2": {
+   "prop": "401872971|3915411|rushRecYds",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 21.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "BUF",
+   "opp": "NE",
+   "opponentFactor": 1,
+   "projection": 40.47,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 1,
+   "guardReason": "0 carries last game, 7.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 carries last game, 7.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872971|3915411|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872971|3915411|rushRecYds",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 21.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "BUF",
+   "opp": "NE",
+   "opponentFactor": 1,
+   "projection": 40.47,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 1,
+   "guardReason": "0 carries last game, 7.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 carries last game, 7.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872971|3915411|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872971|3915411|rushRecYds",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 21.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "BUF",
+   "opp": "NE",
+   "opponentFactor": 1,
+   "projection": 40.47,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 1,
+   "guardReason": "0 carries last game, 7.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 carries last game, 7.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872971|3915411|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872971|3915411|rushRecYds",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 21.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "BUF",
+   "opp": "NE",
+   "opponentFactor": 1,
+   "projection": 40.47,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 1,
+   "guardReason": "0 carries last game, 7.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 carries last game, 7.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872974|4711533|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401872974|4711533|rushRecYds",
+   "player": "Ollie Gordon II",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "MIA",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 44.77,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.54,
+   "guardReason": "De'Von Achane is IR — he was seeing 11.3 car a game; 17 carries last game, 4.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "De'Von Achane is IR — he was seeing 11.3 car a game",
+    "17 carries last game, 4.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791144300000,
+   "overrides": []
+  },
+  "401872974|4711533|rushRecYds|yardage-scale-v2": {
+   "prop": "401872974|4711533|rushRecYds",
+   "player": "Ollie Gordon II",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "MIA",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 44.77,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.54,
+   "guardReason": "De'Von Achane is IR — he was seeing 11.3 car a game; 17 carries last game, 4.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "De'Von Achane is IR — he was seeing 11.3 car a game",
+    "17 carries last game, 4.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791144300000,
+   "overrides": []
+  },
+  "401872974|4711533|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872974|4711533|rushRecYds",
+   "player": "Ollie Gordon II",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "MIA",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 44.77,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.54,
+   "guardReason": "De'Von Achane is IR — he was seeing 11.3 car a game; 17 carries last game, 4.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "De'Von Achane is IR — he was seeing 11.3 car a game",
+    "17 carries last game, 4.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791144300000,
+   "overrides": []
+  },
+  "401872974|4711533|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872974|4711533|rushRecYds",
+   "player": "Ollie Gordon II",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "MIA",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 44.77,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.54,
+   "guardReason": "De'Von Achane is IR — he was seeing 11.3 car a game; 17 carries last game, 4.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "De'Von Achane is IR — he was seeing 11.3 car a game",
+    "17 carries last game, 4.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791144300000,
+   "overrides": []
+  },
+  "401872974|4711533|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872974|4711533|rushRecYds",
+   "player": "Ollie Gordon II",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "MIA",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 44.77,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.54,
+   "guardReason": "De'Von Achane is IR — he was seeing 11.3 car a game; 17 carries last game, 4.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "De'Von Achane is IR — he was seeing 11.3 car a game",
+    "17 carries last game, 4.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791025989873,
+   "kickoff": 1791144300000,
+   "overrides": []
   }
  },
  "checks": [
@@ -165556,6 +166481,13 @@
    1791000336847,
    755,
    0,
+   47,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1791025989873,
+   759,
+   20,
    47,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
